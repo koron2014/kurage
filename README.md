@@ -17,3 +17,4 @@
  - sardin
  - kuromaguro
  
+-test
